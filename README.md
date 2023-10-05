@@ -1,6 +1,8 @@
 # Spatial-Transformer-Network-Module-for-ScrabbleGAN
 
-Modification of Amazon's ScrabbleGAN by adding in a Spatial Transformer Network. Original link here: https://github.com/amzn/convolutional-handwriting-gan
+Modification of Amazon's ScrabbleGAN by adding in a Spatial Transformer Network. 
+
+Original link here: https://github.com/amzn/convolutional-handwriting-gan
 
 ```bibtex
 @inproceedings{fogel2020scrabblegan,
